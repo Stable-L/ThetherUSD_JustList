@@ -1,0 +1,21 @@
+{
+  "name": "Thether USD List",
+  "logoURI": "https://raw.githubusercontent.com/Stable-L/ThetherUSD_JustList/main/photo_6152209527181347692_m.jpg",
+  "keywords": ["stablecoin", "usdt", "trc20"],
+  "timestamp": "2025-11-30T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 728126428,
+      "address": "TS19aXnBLtsS7a243wT3NHevPhVLrEK3Cu",
+      "name": "Thether USD",
+      "symbol": "USDT Trc2O",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Stable-L/ThetherUSD_JustList/main/photo_6152209527181347692_m.jpg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
